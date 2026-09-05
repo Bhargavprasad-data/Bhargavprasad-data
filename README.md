@@ -1,266 +1,246 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%">
+<img src="./assets/banner.svg" width="100%" alt="Bhargav Prasad banner">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;Python+Developer;React+Developer;Backend+%26+API+Developer;Machine+Learning+Enthusiast;Building+Practical+Solutions+%F0%9F%9A%80">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineer;Full+Stack+Developer;Python+Developer;React+Developer;Backend+%26+API+Developer;Machine+Learning+Enthusiast;Building+Practical+Solutions" alt="Typing SVG">
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <a href="https://bhargavprasad-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio">
 </a>
-
 <a href="https://www.linkedin.com/in/vana-bhargav-prasad-57352b399/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn">
 </a>
-
-<a href="bhargavvana80@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:bhargavvana80@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email">
+</a>
+<a href="https://github.com/Bhargavprasad-data">
+<img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="GitHub">
 </a>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Computer Science undergraduate and aspiring Software Engineer
-focused on building practical, scalable and user-focused applications.
+I'm a Computer Science undergraduate and Software Engineer focused on building
+practical, scalable, full‑stack products — from backend APIs to polished
+frontend experiences.
 
-- 🎓 B.Tech Computer Science — MVGR College of Engineering
-- 💼 Software Engineer Intern experience at SmartBridge
-- 💻 Full Stack Development
-- ⚛️ React.js & React Native
-- 🐍 Python Development
-- 🔗 REST API & Backend Development
-- 🗄️ MySQL, MongoDB & PostgreSQL
-- 🤖 Machine Learning & AI-based applications
-- 🌱 Constantly learning and improving
-- 🚀 Interested in solving real-world problems through technology
+|  |  |
+|---|---|
+| 🎓 **Education** | B.Tech Computer Science, MVGR College of Engineering &nbsp;•&nbsp; GPA **8.49** &nbsp;•&nbsp; Class of **2027** |
+| 💼 **Focus** | Full Stack Development, Backend Systems, REST APIs |
+| ⚙️ **Core Stack** | React, React Native, Node.js, Express.js, Python |
+| 🗄️ **Data** | SQL, PostgreSQL, MongoDB |
+| 🤖 **Also exploring** | Machine Learning |
 
----
+<br>
 
-## 🧠 Technical Skills
+## Experience
 
-### Languages
+<table>
+<tr>
+<td width="100%">
 
-<p>
+**Software Engineer Intern** — SmartBridge
+<br>
+<sub>May 2025 – July 2025</sub>
+
+Built **ShopSmart**, a digital grocery shopping platform, covering both
+backend and frontend delivery:
+
+- Developed the platform end to end as part of a full‑stack team
+- Implemented user authentication and product management
+- Built shopping cart and order processing functionality
+- Integrated frontend and backend modules into a single product
+- Focused on a responsive, consistent user experience
+
+`React.js` `Node.js` `Express.js` `MongoDB` `GitHub`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Technical Stack
+
+**Languages**
+<br>
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c" />
-</p>
 
-### Frontend
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Backend
-
-<p>
+**Backend**
+<br>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
-### Mobile
-
-<p>
+**Mobile**
+<br>
 <img src="https://skillicons.dev/icons?i=react" />
-</p>
 
-### Databases
-
-<p>
+**Databases**
+<br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
 
-### Tools
-
-<p>
+**Tools**
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
-</p>
 
----
+<br>
 
-## 💼 Experience
+## Featured Projects
 
-### Software Engineer Intern — SmartBridge
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**May 2025 – July 2025**
-
-Worked on **ShopSmart**, a digital grocery shopping platform.
-
-Key contributions:
-
-- Developed user authentication functionality
-- Implemented product management
-- Built shopping cart functionality
-- Worked on order processing
-- Integrated frontend and backend modules
-- Improved responsive user experience
-- Worked with React.js, Node.js, Express.js and MongoDB
-
----
-
-## 🚀 Featured Projects
-
-### 🌦️ ClimateStock
+### ClimateStock
 
 AI-powered climate-based stock market prediction and analysis platform.
 
-**Focus:**
+`Machine Learning` `Random Forest Classifier` `XGBoost Regressor`
 
-- Climate-based analysis
-- Stock market prediction
-- Machine Learning
-- Real-time insights
-- Data-driven decision support
+[View Repository →](https://github.com/Bhargavprasad-data/ClimateStock)
 
-**Algorithms:**
+</td>
+<td width="50%" valign="top">
 
-`Random Forest Classifier` `XGBoost Regressor`
+### Jalrakshak — Water Guardian
 
-[View Project](https://github.com/Bhargavprasad-data/ClimateStock)
-
----
-
-### 💧 Jalrakshak — Water Guardian
-
-IoT-based water management solution designed for efficient monitoring of rural water supply systems.
-
-**Focus:**
-
-- Real-time monitoring
-- Automated alerts
-- Water quality
-- Resource management
-- Predictive insights
-
-**Technology:**
+IoT-based water management solution supporting monitoring of rural
+water supply systems.
 
 `React.js` `C++` `PostgreSQL`
 
-[View Project](https://github.com/Bhargavprasad-data/Jalrakshak-water-guarden)
+[View Repository →](https://github.com/Bhargavprasad-data/Jalrakshak-water-guarden)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🏨 Restaurant & Hotel Suite
+### Restaurant & Hotel Suite
 
-Centralized hotel and restaurant management application.
-
-**Features:**
-
-- Booking management
-- Order management
-- Staff management
-- Payment management
-- Customer services
-- Role-based dashboards
-- Real-time updates
-
-**Technology:**
+Centralized hotel and restaurant management application — bookings,
+orders, staff management, payments, customer services, role-based
+dashboards, and real-time updates.
 
 `React Native` `Node.js` `PostgreSQL`
 
-[View Project](https://github.com/Bhargavprasad-data/Restaurant-Hotel-Suite)
+[View Repository →](https://github.com/Bhargavprasad-data/Restaurant-Hotel-Suite)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📅 College Timetable Management System
+### College Timetable Management System
 
-Centralized academic scheduling system designed to simplify timetable management.
-
-**Features:**
-
-- Timetable creation
-- Timetable management
-- Faculty access
-- Student access
-- Timetable viewing
-- Export functionality
-
-**Technology:**
+Centralized academic timetable management system.
 
 `React.js` `Node.js` `PostgreSQL`
 
-[View Project](https://github.com/Bhargavprasad-data/Timetable)
+[View Repository →](https://github.com/Bhargavprasad-data/Timetable)
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Analytics
+<br>
+
+## Current Focus
+
+```text
+Deepening backend architecture & API design
+Strengthening applied machine learning fundamentals
+Shipping and refining personal full-stack projects
+```
+
+<br>
+
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Bhargavprasad-data&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhargavprasad-data&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavprasad-data&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavprasad-data&layout=compact&theme=tokyonight&hide_border=true">
+<br>
 
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Bhargavprasad-data&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=Bhargavprasad-data&theme=tokyonight&hide_border=true&background=00000000" alt="Contribution streak">
 
 </div>
 
----
+<br>
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
 <picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/output/github-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/output/github-snake.svg">
-
-<img
-src="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/output/github-snake.svg"
-alt="GitHub Contribution Snake">
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/output/github-snake.svg" alt="GitHub contribution snake">
 </picture>
 
 </div>
 
----
+<br>
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
-🏆 **SIH 2025 — Runner Up**
-
-⭐ **HackerRank — 3 Star Programmer**
-
-💻 **HackerRank Problem Solving — Basic**
-
-🐍 **HackerRank Python — Basic**
+|  |  |
+|---|---|
+| 🏆 | **Smart India Hackathon 2025** — Runner Up |
+| ⭐ | **HackerRank** — 3‑Star Programmer |
+| 📜 | HackerRank Problem Solving (Basic) |
+| 📜 | HackerRank Python (Basic) |
 
 </div>
 
----
+<br>
 
-## 📚 Core Computer Science
+## Core Computer Science
 
 ```text
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-Operating Systems
-Computer Networks
-SQL
+Data Structures & Algorithms   ·   Object-Oriented Programming
+Database Management Systems    ·   Operating Systems
+Computer Networks              ·   SQL
+```
+
+<br>
+
+## AI-Assisted Development
+
+I use the following AI tools to support development, research and
+productivity — not as a substitute for core engineering skills:
+
+`Cursor` `Antigravity` `Claude` `ChatGPT` `GitHub Copilot` `Google Gemini` `Perplexity` `Grok`
+
+<br>
+
+## Contact
+
+<div align="center">
+
+<a href="https://bhargavprasad-portfolio.vercel.app/">Portfolio</a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/vana-bhargav-prasad-57352b399/">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="mailto:bhargavvana80@gmail.com">Email</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Bhargavprasad-data">GitHub</a>
+
+<br><br>
+
+<sub>Thanks for stopping by — always open to interesting engineering conversations.</sub>
+
+</div>
