@@ -34,7 +34,7 @@ text{font-family:'JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
 <clipPath id="cardclip"><rect x="82" y="290" width="256" height="320" rx="18"/></clipPath>
 <g clip-path="url(#avatarclip)">
   <image
-    href="profile.jpg"
+    href="profile.jpeg"
     x="154"
     y="344"
     width="112"
