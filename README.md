@@ -23,19 +23,19 @@
 
 <td width="65%" valign="middle">
 
-### 🚀 Turning Ideas into Working Software
+### <img src="./assets/icons/rocket.svg" width="20" align="absmiddle"/> Turning Ideas into Working Software
 
-- 🎓 B.Tech Computer Science student at MVGR College of Engineering — GPA **8.49**, graduating **2027**
-- 💻 Focused on **Full Stack Development, Backend Systems, and REST APIs**
-- ⚛️ Building with **React, React Native, Node.js, Express.js, and Python**
-- 🗄️ Comfortable across **SQL, PostgreSQL, and MongoDB**
-- 🤖 Exploring **Machine Learning** alongside core software engineering
-- 💼 Software Engineer Intern experience at **SmartBridge**
-- 🌱 Always shipping, always learning
+- <img src="./assets/icons/graduation-cap.svg" width="16" align="absmiddle"/> B.Tech Computer Science student at MVGR College of Engineering — GPA **8.49**, graduating **2027**
+- <img src="./assets/icons/laptop.svg" width="16" align="absmiddle"/> Focused on **Full Stack Development, Backend Systems, and REST APIs**
+- <img src="./assets/icons/atom.svg" width="16" align="absmiddle"/> Building with **React, React Native, Node.js, Express.js, and Python**
+- <img src="./assets/icons/database.svg" width="16" align="absmiddle"/> Comfortable across **SQL, PostgreSQL, and MongoDB**
+- <img src="./assets/icons/bot.svg" width="16" align="absmiddle"/> Exploring **Machine Learning** alongside core software engineering
+- <img src="./assets/icons/briefcase.svg" width="16" align="absmiddle"/> Software Engineer Intern experience at **SmartBridge**
+- <img src="./assets/icons/sprout.svg" width="16" align="absmiddle"/> Always shipping, always learning
 
 <br/>
 
-> 💙 *"Build it, ship it, learn from it."*
+> <img src="./assets/icons/sparkles.svg" width="16" align="absmiddle"/> *"Build it, ship it, learn from it."*
 
 </td>
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## <img src="./assets/icons/globe.svg" width="22" align="absmiddle"/> Connect With Me
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 💼 Experience
+## <img src="./assets/icons/briefcase.svg" width="22" align="absmiddle"/> Experience
 
 <table align="center" border="0">
 <tr>
@@ -88,9 +88,9 @@ Built **ShopSmart**, a digital grocery shopping platform:
 
 ---
 
-## 🧠 Technical Skills
+## <img src="./assets/icons/brain.svg" width="22" align="absmiddle"/> Technical Skills
 
-### 👨‍💻 Languages
+### <img src="./assets/icons/code-2.svg" width="18" align="absmiddle"/> Languages
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="36"/>
@@ -102,7 +102,7 @@ Built **ShopSmart**, a digital grocery shopping platform:
 
 </div>
 
-### 🎨 Frontend
+### <img src="./assets/icons/palette.svg" width="18" align="absmiddle"/> Frontend
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="36"/>
@@ -111,7 +111,7 @@ Built **ShopSmart**, a digital grocery shopping platform:
 
 </div>
 
-### ⚙️ Backend
+### <img src="./assets/icons/settings.svg" width="18" align="absmiddle"/> Backend
 <div align="center">
 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="36"/>
@@ -119,14 +119,14 @@ Built **ShopSmart**, a digital grocery shopping platform:
 
 </div>
 
-### 📱 Mobile
+### <img src="./assets/icons/smartphone.svg" width="18" align="absmiddle"/> Mobile
 <div align="center">
 
 <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="36"/>
 
 </div>
 
-### 🗄️ Databases
+### <img src="./assets/icons/database.svg" width="18" align="absmiddle"/> Databases
 <div align="center">
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="36"/>
@@ -135,7 +135,7 @@ Built **ShopSmart**, a digital grocery shopping platform:
 
 </div>
 
-### 🛠️ Tools & Platforms
+### <img src="./assets/icons/wrench.svg" width="18" align="absmiddle"/> Tools & Platforms
 <div align="center">
 
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="36"/>
@@ -148,13 +148,13 @@ Built **ShopSmart**, a digital grocery shopping platform:
 
 ---
 
-## 🚀 Featured Projects
+## <img src="./assets/icons/rocket.svg" width="22" align="absmiddle"/> Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ ClimateStock
+### <img src="./assets/icons/cloud-rain.svg" width="18" align="absmiddle"/> ClimateStock
 AI-powered climate-based stock market prediction and analysis platform.
 
 `Machine Learning` `Random Forest Classifier` `XGBoost Regressor`
@@ -164,7 +164,7 @@ AI-powered climate-based stock market prediction and analysis platform.
 </td>
 <td width="50%" valign="top">
 
-### 💧 Jalrakshak — Water Guardian
+### <img src="./assets/icons/droplet.svg" width="18" align="absmiddle"/> Jalrakshak — Water Guardian
 IoT-based water management solution for monitoring rural water supply systems.
 
 `React.js` `C++` `PostgreSQL`
@@ -176,7 +176,7 @@ IoT-based water management solution for monitoring rural water supply systems.
 <tr>
 <td width="50%" valign="top">
 
-### 🏨 Restaurant & Hotel Suite
+### <img src="./assets/icons/building-2.svg" width="18" align="absmiddle"/> Restaurant & Hotel Suite
 Centralized hotel and restaurant management app — bookings, orders, staff, payments, and role-based dashboards.
 
 `React Native` `Node.js` `PostgreSQL`
@@ -186,7 +186,7 @@ Centralized hotel and restaurant management app — bookings, orders, staff, pay
 </td>
 <td width="50%" valign="top">
 
-### 📅 College Timetable Management System
+### <img src="./assets/icons/calendar.svg" width="18" align="absmiddle"/> College Timetable Management System
 Centralized academic timetable management system.
 
 `React.js` `Node.js` `PostgreSQL`
@@ -199,7 +199,7 @@ Centralized academic timetable management system.
 
 ---
 
-## 👀 Profile Views
+## <img src="./assets/icons/eye.svg" width="22" align="absmiddle"/> Profile Views
 
 <div align="center">
 
@@ -209,7 +209,7 @@ Centralized academic timetable management system.
 
 ---
 
-## 📊 GitHub Stats
+## <img src="./assets/icons/bar-chart-3.svg" width="22" align="absmiddle"/> GitHub Stats
 
 <div align="center">
 
@@ -220,7 +220,7 @@ Centralized academic timetable management system.
 
 ---
 
-## 🔥 GitHub Streak
+## <img src="./assets/icons/flame.svg" width="22" align="absmiddle"/> GitHub Streak
 
 <div align="center">
 
@@ -230,7 +230,7 @@ Centralized academic timetable management system.
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="./assets/icons/git-branch.svg" width="22" align="absmiddle"/> Contribution Snake
 
 <div align="center">
 
@@ -244,19 +244,19 @@ Centralized academic timetable management system.
 
 ---
 
-## 🏆 Achievements
+## <img src="./assets/icons/trophy.svg" width="22" align="absmiddle"/> Achievements
 
 <div align="center">
 
-🏆 **Smart India Hackathon 2025** — Runner Up &nbsp;|&nbsp; ⭐ **HackerRank** — 3-Star Programmer
+<img src="./assets/icons/trophy.svg" width="16" align="absmiddle"/> **Smart India Hackathon 2025** — Runner Up &nbsp;|&nbsp; <img src="./assets/icons/star.svg" width="16" align="absmiddle"/> **HackerRank** — 3-Star Programmer
 
-📜 HackerRank Problem Solving (Basic) &nbsp;|&nbsp; 📜 HackerRank Python (Basic)
+<img src="./assets/icons/scroll.svg" width="16" align="absmiddle"/> HackerRank Problem Solving (Basic) &nbsp;|&nbsp; <img src="./assets/icons/scroll.svg" width="16" align="absmiddle"/> HackerRank Python (Basic)
 
 </div>
 
 ---
 
-## 📚 Core Computer Science
+## <img src="./assets/icons/book-open.svg" width="22" align="absmiddle"/> Core Computer Science
 
 ```text
 Data Structures & Algorithms   Object-Oriented Programming
@@ -266,7 +266,7 @@ Computer Networks              SQL
 
 ---
 
-## 🤖 AI-Assisted Development
+## <img src="./assets/icons/bot.svg" width="22" align="absmiddle"/> AI-Assisted Development
 
 AI tools I use to support development, research, and productivity —
 not a substitute for core engineering skills:
@@ -286,7 +286,7 @@ not a substitute for core engineering skills:
 
 ---
 
-### ✍️ Dev Quote of the Day
+### <img src="./assets/icons/pen-line.svg" width="18" align="absmiddle"/> Dev Quote of the Day
 
 <div align="center">
 
@@ -296,17 +296,17 @@ not a substitute for core engineering skills:
 
 ---
 
-## 🌱 Currently Learning
+## <img src="./assets/icons/sprout.svg" width="22" align="absmiddle"/> Currently Learning
 
-```text
-📌 Backend architecture & API design
-📌 Applied machine learning fundamentals
-📌 Shipping and refining personal full-stack projects
-```
+<img src="./assets/icons/map-pin.svg" width="16" align="absmiddle"/> Backend architecture & API design
+<br/>
+<img src="./assets/icons/map-pin.svg" width="16" align="absmiddle"/> Applied machine learning fundamentals
+<br/>
+<img src="./assets/icons/map-pin.svg" width="16" align="absmiddle"/> Shipping and refining personal full-stack projects
 
 ---
 
-## 📬 Contact
+## <img src="./assets/icons/mail.svg" width="22" align="absmiddle"/> Contact
 
 <div align="center">
 
