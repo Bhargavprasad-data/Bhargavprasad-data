@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Bhargav%20Prasad&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=18&color=0:22D3EE,25:60A5FA,50:A78BFA,75:60A5FA,100:22D3EE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Bhargav%20Prasad&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=18&color=0:ff0080,25:7928ca,50:2afadf,75:00ff88,100:ffcc00" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=760&height=100&lines=Software+Engineer;Full+Stack+Developer;Python+Developer;React+Developer;Backend+%26+API+Developer;Machine+Learning+Enthusiast;Building+Practical+Solutions" alt="Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhargav+Prasad!;Software+Engineer+%7C+Full+Stack+Developer;I+turn+ideas+into+real+working+systems+%F0%9F%9A%80)](https://github.com/Bhargavprasad-data)
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Bhargavprasad-data&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Bhargavprasad-data?style=for-the-badge&color=A78BFA&label=FOLLOWERS" alt="Followers"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/main/assets/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/main/assets/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="./assets/pacman-contribution-graph-dark.svg" width="100%">
+</picture>
 
 </div>
 
@@ -25,7 +27,8 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/bhargav-id.svg" alt="Bhargav Prasad ID badge" width="280"/>
+<!-- 🪪 Swinging Lanyard ID Card -->
+<img src="./assets/bhargav-id.svg" alt="Bhargav Prasad ID badge" width="300"/>
 
 </td>
 
@@ -54,8 +57,41 @@
 
 <br/>
 
+---
+
+<div align="center">
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/Bhargavprasad-data)
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="88%" />
+<a href="https://github.com/Bhargavprasad-data"><img width="650px" src="https://readme-typing-svg.demolab.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello%2C%20World%20%F0%9F%91%8B%3BWelcome%20to%20My%20Profile%20%F0%9F%92%BB%3BHappy%20to%20See%20You%20Here%20%F0%9F%98%80%3BFeel%20Free%20to%20Look%20Around%20%E2%9C%8C%3BReach%20Me%20Out%20If%20You%20Need%20Me%20%F0%9F%8E%A8%F0%9F%99%8C%3BHave%20a%20Great%20Day%20%F0%9F%8C%9E"></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+### 💫 About Me
+
+* 🔭 I'm a **passionate student developer** building real-world projects
+* 🤖 Deeply interested in **Full Stack Development, Backend Systems & AI/ML**
+* 🔌 I love combining **clean frontend design + solid backend architecture**
+* 🌱 Currently learning **Advanced System Design, Scalable APIs & Machine Learning**
+* 💡 I don't just learn technologies — **I build with them**
+* ⚡ Fun fact: I turn simple ideas into real, working systems
+* 🚀 Passionate about creating **innovative solutions** that solve everyday problems
+* 🧠 Constantly exploring new technologies and improving my skills through **hands-on projects & experimentation**
+
+<br clear="right"/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
 ---
@@ -80,7 +116,7 @@
 
 <div align="center">
 
-<table border="0" width="80%">
+<table border="0" width="85%">
 <tr>
 <td>
 
@@ -263,7 +299,9 @@ Centralized academic timetable management with conflict detection and scheduling
 
 <div align="center">
 
-<img src="https://count.getloli.com/@Bhargavprasad-data?theme=moebooru" alt="Profile view count"/>
+<img src="https://komarev.com/ghpvc/?username=Bhargavprasad-data&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Bhargavprasad-data?style=for-the-badge&color=A78BFA&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
@@ -296,20 +334,6 @@ Centralized academic timetable management with conflict detection and scheduling
 <div align="center">
 
 <img src="https://github-trophies.vercel.app/?username=Bhargavprasad-data&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## <img src="./assets/icons/bot.svg" width="22" align="absmiddle"/> &nbsp;Contribution Arcade (Pac-Man)
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/main/assets/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/main/assets/pacman-contribution-graph.svg">
-  <img src="./assets/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%"/>
-</picture>
 
 </div>
 
@@ -398,26 +422,6 @@ Centralized academic timetable management with conflict detection and scheduling
 
 ---
 
-## <img src="./assets/icons/sprout.svg" width="22" align="absmiddle"/> &nbsp;Currently Learning
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td align="center"><img src="./assets/icons/map-pin.svg" width="18" align="absmiddle"/> &nbsp;<strong>Backend Architecture & API Design</strong></td>
-</tr>
-<tr>
-<td align="center"><img src="./assets/icons/map-pin.svg" width="18" align="absmiddle"/> &nbsp;<strong>Applied Machine Learning Fundamentals</strong></td>
-</tr>
-<tr>
-<td align="center"><img src="./assets/icons/map-pin.svg" width="18" align="absmiddle"/> &nbsp;<strong>Shipping & Refining Full-Stack Projects</strong></td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## <img src="./assets/icons/mail.svg" width="22" align="absmiddle"/> &nbsp;Contact
 
 <div align="center">
@@ -432,8 +436,12 @@ Centralized academic timetable management with conflict detection and scheduling
 
 </div>
 
+<br/>
+
 <div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:22D3EE,25:60A5FA,50:A78BFA,75:60A5FA,100:22D3EE" width="100%"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffcc00,25:00ff88,50:2afadf,75:7928ca,100:ff0080" width="100%"/>
 </div>
