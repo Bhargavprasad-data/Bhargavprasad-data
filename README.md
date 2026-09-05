@@ -27,7 +27,7 @@
 
 <td width="35%" align="center" valign="middle">
 
-<!-- 🪪 Swinging Lanyard ID Card -->
+<!-- Swinging Lanyard ID Card -->
 <img src="./assets/bhargav-id.svg" alt="Bhargav Prasad ID badge" width="300"/>
 
 </td>
@@ -77,16 +77,16 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-### 💫 About Me
+### <img src="./assets/icons/sparkles.svg" width="22" align="absmiddle"/> &nbsp;About Me
 
-* 🔭 I'm a **passionate student developer** building real-world projects
-* 🤖 Deeply interested in **Full Stack Development, Backend Systems & AI/ML**
-* 🔌 I love combining **clean frontend design + solid backend architecture**
-* 🌱 Currently learning **Advanced System Design, Scalable APIs & Machine Learning**
-* 💡 I don't just learn technologies — **I build with them**
-* ⚡ Fun fact: I turn simple ideas into real, working systems
-* 🚀 Passionate about creating **innovative solutions** that solve everyday problems
-* 🧠 Constantly exploring new technologies and improving my skills through **hands-on projects & experimentation**
+- <img src="./assets/icons/telescope.svg" width="16" align="absmiddle"/> &nbsp;I'm a **passionate student developer** building real-world projects
+- <img src="./assets/icons/bot.svg" width="16" align="absmiddle"/> &nbsp;Deeply interested in **Full Stack Development, Backend Systems & AI/ML**
+- <img src="./assets/icons/cpu.svg" width="16" align="absmiddle"/> &nbsp;I love combining **clean frontend design + solid backend architecture**
+- <img src="./assets/icons/sprout.svg" width="16" align="absmiddle"/> &nbsp;Currently learning **Advanced System Design, Scalable APIs & Machine Learning**
+- <img src="./assets/icons/lightbulb.svg" width="16" align="absmiddle"/> &nbsp;I don't just learn technologies — **I build with them**
+- <img src="./assets/icons/zap.svg" width="16" align="absmiddle"/> &nbsp;Fun fact: I turn simple ideas into real, working systems
+- <img src="./assets/icons/rocket.svg" width="16" align="absmiddle"/> &nbsp;Passionate about creating **innovative solutions** that solve everyday problems
+- <img src="./assets/icons/brain.svg" width="16" align="absmiddle"/> &nbsp;Constantly exploring new technologies and improving my skills through **hands-on projects & experimentation**
 
 <br clear="right"/>
 
@@ -120,8 +120,8 @@
 <tr>
 <td>
 
-### 🏢 Software Engineer Intern — SmartBridge
-<sub>📅 May 2025 – July 2025</sub>
+### <img src="./assets/icons/building-2.svg" width="18" align="absmiddle"/> &nbsp;Software Engineer Intern — SmartBridge
+<sub><img src="./assets/icons/calendar.svg" width="13" align="absmiddle"/> &nbsp;May 2025 – July 2025</sub>
 
 <br/>
 
