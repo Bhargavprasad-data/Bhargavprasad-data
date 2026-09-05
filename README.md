@@ -12,15 +12,15 @@
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://bhargavprasad-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/vana-bhargav-prasad-57352b399/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="YOUR_EMAIL">
+<a href="bhargavvana80@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
