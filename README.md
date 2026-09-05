@@ -1,49 +1,71 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Bhargav Prasad banner">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineer;Full+Stack+Developer;Python+Developer;React+Developer;Backend+%26+API+Developer;Machine+Learning+Enthusiast;Building+Practical+Solutions" alt="Typing SVG">
-
-<br><br>
-
-<a href="https://bhargavprasad-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/vana-bhargav-prasad-57352b399/">
-<img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn">
-</a>
-<a href="mailto:bhargavvana80@gmail.com">
-<img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email">
-</a>
-<a href="https://github.com/Bhargavprasad-data">
-<img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="GitHub">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Bhargav%20Prasad&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=18&color=0:22D3EE,25:60A5FA,50:A78BFA,75:60A5FA,100:22D3EE" width="100%"/>
 
 </div>
 
-<br>
+<div align="center">
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=760&height=100&lines=Software+Engineer;Full+Stack+Developer;Python+Developer;React+Developer;Backend+%26+API+Developer;Machine+Learning+Enthusiast;Building+Practical+Solutions" alt="Typing SVG">
 
-I'm a Computer Science undergraduate and Software Engineer focused on building
-practical, scalable, full‑stack products — from backend APIs to polished
-frontend experiences.
+</div>
 
-|  |  |
-|---|---|
-| 🎓 **Education** | B.Tech Computer Science, MVGR College of Engineering &nbsp;•&nbsp; GPA **8.49** &nbsp;•&nbsp; Class of **2027** |
-| 💼 **Focus** | Full Stack Development, Backend Systems, REST APIs |
-| ⚙️ **Core Stack** | React, React Native, Node.js, Express.js, Python |
-| 🗄️ **Data** | SQL, PostgreSQL, MongoDB |
-| 🤖 **Also exploring** | Machine Learning |
+---
 
-<br>
+<table align="center" border="0">
+<tr>
 
-## Experience
+<td width="35%" align="center" valign="middle">
 
-<table>
+<img src="./assets/bhargav-id.svg" alt="Bhargav Prasad ID badge" width="300"/>
+
+</td>
+
+<td width="65%" valign="middle">
+
+### 🚀 Turning Ideas into Working Software
+
+- 🎓 B.Tech Computer Science student at MVGR College of Engineering — GPA **8.49**, graduating **2027**
+- 💻 Focused on **Full Stack Development, Backend Systems, and REST APIs**
+- ⚛️ Building with **React, React Native, Node.js, Express.js, and Python**
+- 🗄️ Comfortable across **SQL, PostgreSQL, and MongoDB**
+- 🤖 Exploring **Machine Learning** alongside core software engineering
+- 💼 Software Engineer Intern experience at **SmartBridge**
+- 🌱 Always shipping, always learning
+
+<br/>
+
+> 💙 *"Build it, ship it, learn from it."*
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="85%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://bhargavprasad-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vana-bhargav-prasad-57352b399/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhargavprasad-data)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavvana80@gmail.com)
+
+</div>
+
+---
+
+## 💼 Experience
+
+<table align="center" border="0">
 <tr>
 <td width="100%">
 
@@ -51,14 +73,12 @@ frontend experiences.
 <br>
 <sub>May 2025 – July 2025</sub>
 
-Built **ShopSmart**, a digital grocery shopping platform, covering both
-backend and frontend delivery:
+Built **ShopSmart**, a digital grocery shopping platform:
 
-- Developed the platform end to end as part of a full‑stack team
-- Implemented user authentication and product management
+- Developed user authentication and product management
 - Built shopping cart and order processing functionality
-- Integrated frontend and backend modules into a single product
-- Focused on a responsive, consistent user experience
+- Integrated frontend and backend modules end to end
+- Delivered a responsive, consistent user experience
 
 `React.js` `Node.js` `Express.js` `MongoDB` `GitHub`
 
@@ -66,44 +86,75 @@ backend and frontend delivery:
 </tr>
 </table>
 
-<br>
+---
 
-## Technical Stack
+## 🧠 Technical Skills
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c" />
+### 👨‍💻 Languages
+<div align="center">
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="36"/>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="36"/>
+<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="36"/>
 
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
 
-**Mobile**
-<br>
-<img src="https://skillicons.dev/icons?i=react" />
+### 🎨 Frontend
+<div align="center">
 
-**Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="36"/>
 
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+</div>
 
-<br>
+### ⚙️ Backend
+<div align="center">
 
-## Featured Projects
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="36"/>
+
+</div>
+
+### 📱 Mobile
+<div align="center">
+
+<img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="36"/>
+
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="36"/>
+
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="36"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="36"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ClimateStock
-
+### 🌦️ ClimateStock
 AI-powered climate-based stock market prediction and analysis platform.
 
 `Machine Learning` `Random Forest Classifier` `XGBoost Regressor`
@@ -113,10 +164,8 @@ AI-powered climate-based stock market prediction and analysis platform.
 </td>
 <td width="50%" valign="top">
 
-### Jalrakshak — Water Guardian
-
-IoT-based water management solution supporting monitoring of rural
-water supply systems.
+### 💧 Jalrakshak — Water Guardian
+IoT-based water management solution for monitoring rural water supply systems.
 
 `React.js` `C++` `PostgreSQL`
 
@@ -127,11 +176,8 @@ water supply systems.
 <tr>
 <td width="50%" valign="top">
 
-### Restaurant & Hotel Suite
-
-Centralized hotel and restaurant management application — bookings,
-orders, staff management, payments, customer services, role-based
-dashboards, and real-time updates.
+### 🏨 Restaurant & Hotel Suite
+Centralized hotel and restaurant management app — bookings, orders, staff, payments, and role-based dashboards.
 
 `React Native` `Node.js` `PostgreSQL`
 
@@ -140,8 +186,7 @@ dashboards, and real-time updates.
 </td>
 <td width="50%" valign="top">
 
-### College Timetable Management System
-
+### 📅 College Timetable Management System
 Centralized academic timetable management system.
 
 `React.js` `Node.js` `PostgreSQL`
@@ -152,34 +197,40 @@ Centralized academic timetable management system.
 </tr>
 </table>
 
-<br>
+---
 
-## Current Focus
-
-```text
-Deepening backend architecture & API design
-Strengthening applied machine learning fundamentals
-Shipping and refining personal full-stack projects
-```
-
-<br>
-
-## GitHub Analytics
+## 👀 Profile Views
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhargavprasad-data&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavprasad-data&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Bhargavprasad-data&theme=tokyonight&hide_border=true&background=00000000" alt="Contribution streak">
+<img src="https://count.getloli.com/@Bhargavprasad-data?theme=moebooru" />
 
 </div>
 
-<br>
+---
 
-## Contribution Activity
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhargavprasad-data&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavprasad-data&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Bhargavprasad-data&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -191,56 +242,83 @@ Shipping and refining personal full-stack projects
 
 </div>
 
-<br>
+---
 
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-|  |  |
-|---|---|
-| 🏆 | **Smart India Hackathon 2025** — Runner Up |
-| ⭐ | **HackerRank** — 3‑Star Programmer |
-| 📜 | HackerRank Problem Solving (Basic) |
-| 📜 | HackerRank Python (Basic) |
+🏆 **Smart India Hackathon 2025** — Runner Up &nbsp;|&nbsp; ⭐ **HackerRank** — 3-Star Programmer
+
+📜 HackerRank Problem Solving (Basic) &nbsp;|&nbsp; 📜 HackerRank Python (Basic)
 
 </div>
 
-<br>
+---
 
-## Core Computer Science
+## 📚 Core Computer Science
 
 ```text
-Data Structures & Algorithms   ·   Object-Oriented Programming
-Database Management Systems    ·   Operating Systems
-Computer Networks              ·   SQL
+Data Structures & Algorithms   Object-Oriented Programming
+Database Management Systems    Operating Systems
+Computer Networks              SQL
 ```
 
-<br>
+---
 
-## AI-Assisted Development
+## 🤖 AI-Assisted Development
 
-I use the following AI tools to support development, research and
-productivity — not as a substitute for core engineering skills:
-
-`Cursor` `Antigravity` `Claude` `ChatGPT` `GitHub Copilot` `Google Gemini` `Perplexity` `Grok`
-
-<br>
-
-## Contact
+AI tools I use to support development, research, and productivity —
+not a substitute for core engineering skills:
 
 <div align="center">
 
-<a href="https://bhargavprasad-portfolio.vercel.app/">Portfolio</a>
-&nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/vana-bhargav-prasad-57352b399/">LinkedIn</a>
-&nbsp;•&nbsp;
-<a href="mailto:bhargavvana80@gmail.com">Email</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/Bhargavprasad-data">GitHub</a>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white" height="32"/>
 
-<br><br>
+</div>
 
-<sub>Thanks for stopping by — always open to interesting engineering conversations.</sub>
+---
+
+### ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+📌 Backend architecture & API design
+📌 Applied machine learning fundamentals
+📌 Shipping and refining personal full-stack projects
+```
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://bhargavprasad-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vana-bhargav-prasad-57352b399/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhargavprasad-data)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavvana80@gmail.com)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,25:60A5FA,50:A78BFA,75:60A5FA,100:22D3EE" width="100%"/>
 
 </div>
