@@ -1,0 +1,87 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#050816"/>
+    <stop offset="50%" stop-color="#111827"/>
+    <stop offset="100%" stop-color="#0f172a"/>
+  </linearGradient>
+
+  <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="50%" stop-color="#818cf8"/>
+    <stop offset="100%" stop-color="#c084fc"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="8" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+<rect width="1200" height="300" fill="url(#bg)"/>
+
+<!-- Decorative circles -->
+
+<circle cx="80" cy="60" r="2" fill="#38bdf8"/>
+<circle cx="150" cy="220" r="3" fill="#818cf8"/>
+<circle cx="1050" cy="80" r="3" fill="#c084fc"/>
+<circle cx="1120" cy="220" r="2" fill="#38bdf8"/>
+<circle cx="950" cy="250" r="2" fill="#818cf8"/>
+
+<!-- Grid -->
+
+<path d="M0 240 Q300 190 600 240 T1200 210"
+stroke="url(#accent)"
+stroke-width="2"
+fill="none"
+opacity="0.5"/>
+
+<path d="M0 250 Q300 210 600 250 T1200 220"
+stroke="url(#accent)"
+stroke-width="1"
+fill="none"
+opacity="0.3"/>
+
+<!-- Name -->
+
+<text x="600"
+y="125"
+text-anchor="middle"
+fill="white"
+font-family="Arial, Helvetica, sans-serif"
+font-size="58"
+font-weight="700"
+letter-spacing="3">
+BHARGAV PRASAD
+</text>
+
+<!-- Subtitle -->
+
+<text x="600"
+y="175"
+text-anchor="middle"
+fill="#cbd5e1"
+font-family="Arial, Helvetica, sans-serif"
+font-size="23"
+letter-spacing="2">
+SOFTWARE ENGINEER • FULL STACK DEVELOPER
+</text>
+
+<!-- Accent line -->
+
+<line x1="420"
+y1="200"
+x2="780"
+y2="200"
+stroke="url(#accent)"
+stroke-width="3"
+filter="url(#glow)"/>
+
+</svg>
