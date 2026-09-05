@@ -32,7 +32,16 @@ text{font-family:'JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
 </linearGradient>
 <radialGradient id="glow"><stop offset="0%" stop-color="#38bdf8" stop-opacity=".15"/><stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
 <clipPath id="cardclip"><rect x="82" y="290" width="256" height="320" rx="18"/></clipPath>
-<clipPath id="avatarclip"><circle cx="210" cy="398" r="54"/></clipPath>
+<g clip-path="url(#avatarclip)">
+  <image
+    href="profile.jpg"
+    x="154"
+    y="344"
+    width="112"
+    height="108"
+    preserveAspectRatio="xMidYMid slice"
+  />
+</g>
 </defs>
 
 <circle cx="210" cy="430" r="220" fill="url(#glow)"/>
