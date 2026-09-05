@@ -25,7 +25,7 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/bhargav-id.jpg" alt="Bhargav Prasad ID badge" width="260"/>
+<img src="./assets/bhargav-id.svg" alt="Bhargav Prasad ID badge" width="280"/>
 
 </td>
 
@@ -273,9 +273,9 @@ Centralized academic timetable management with conflict detection and scheduling
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhargavprasad-data&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Bhargavprasad-data&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavprasad-data&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bhargavprasad-data&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
 </div>
 
@@ -291,6 +291,30 @@ Centralized academic timetable management with conflict detection and scheduling
 
 ---
 
+## <img src="./assets/icons/trophy.svg" width="22" align="absmiddle"/> &nbsp;GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=Bhargavprasad-data&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## <img src="./assets/icons/bot.svg" width="22" align="absmiddle"/> &nbsp;Contribution Arcade (Pac-Man)
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/main/assets/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/main/assets/pacman-contribution-graph.svg">
+  <img src="./assets/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%"/>
+</picture>
+
+</div>
+
+---
+
 ## <img src="./assets/icons/git-branch.svg" width="22" align="absmiddle"/> &nbsp;Contribution Snake
 
 <div align="center">
@@ -300,16 +324,6 @@ Centralized academic timetable management with conflict detection and scheduling
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/Bhargavprasad-data/Bhargavprasad-data/output/github-snake-dark.svg" alt="GitHub contribution snake"/>
 </picture>
-
-</div>
-
----
-
-## <img src="./assets/icons/trophy.svg" width="22" align="absmiddle"/> &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bhargavprasad-data&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies"/>
 
 </div>
 
