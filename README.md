@@ -301,7 +301,7 @@ Centralized academic timetable management with conflict detection and scheduling
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Bhargavprasad-data&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://hits.sh/github.com/Bhargavprasad-data.svg?style=for-the-badge&label=PROFILE+VIEWS&color=22D3EE&extraCount=350" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/Bhargavprasad-data?style=for-the-badge&color=A78BFA&label=FOLLOWERS" alt="Followers"/>
 
