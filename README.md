@@ -313,9 +313,9 @@ Centralized academic timetable management with conflict detection and scheduling
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Bhargavprasad-data&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Bhargavprasad-data&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bhargavprasad-data&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhargavprasad-data&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
 </div>
 
